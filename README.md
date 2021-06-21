@@ -1,4 +1,4 @@
-# Principal Component Analysis
+### Principal Component Analysis
 When the number of features or dimensions in the data increases, it makes the training extremely
 slow, the Principal Component Analysis (PCA) technique is used to reduce the dimension of the
 data while keeping the information of the original features as close as possible. In a nutshell, this
